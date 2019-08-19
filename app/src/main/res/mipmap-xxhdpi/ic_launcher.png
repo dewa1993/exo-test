@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_2" />
+        <device id="pixel_3_xl" />
+        <device id="pixel" />
+        <device id="pixel_3" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="com.syngenta" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f6f2a93-a4ff-4fcb-b8c9-719a0c40a58a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../server components/src/main/java/rest/security/APIKeyAuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server components/src/main/java/rest/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server components/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../server components/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server components/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../server components/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/country/controller/CountryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/country/controller/CountryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/country/controller/LocationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/country/controller/LocationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/country/controller/PlantController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/country/controller/PlantController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/material/controller/MaterialController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/material/controller/MaterialController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/movement/controller/MovementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/movement/controller/MovementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../server components/src/main/java/rest/endpoint/user/controller/UserController.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="client components" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="client components" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syngenta/plantautomation/ui/intro/fragment/IntroFragment.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/raw/auth_config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.identity/common/0.0.10-alpha/49f05fca9b7767b3c5d01b668bce4f9d7c51c733/common-0.0.10-alpha-sources.jar!/com/microsoft/identity/common/internal/dto/AccessTokenRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="53" column="77" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/syngenta/plantautomation/ui/intro/activity/IntroActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="33" column="47" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/
